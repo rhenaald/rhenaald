@@ -1,20 +1,22 @@
-# 👋 Hi, I'm Rhenaald!
+<h1 align="center">Hi 👋, I'm Ikhwan Kurniawan Julianto</h1>
+<h3 align="center">I’m a passionate and dedicated developer with a strong foundation in various cutting-edge technologies. My journey in software development has led me to explore and work with diverse stacks, focusing on creating innovative solutions and delivering high-quality code. I’m always eager to learn, collaborate, and push the boundaries of what’s possible in the world of software engineering. I am also a Computer Science student at Universitas Siliwangi (UNSIL), where I continue to expand my knowledge and skills. My academic background complements my practical experience, allowing me to apply the latest theories and methodologies to real-world projects.</h3>
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in various technologies. Below are some of the projects I’m currently working on and the tools I use.
+- 🔭 I’m currently working on [Zakatin](https://github.com/rhenaald/Zakat-app)
 
-## 🛠️ Technologies I Use
+- 🌱 I’m currently learning **Laravel, React, UI/UX, etc.**
 
-- **Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, React, Tailwind CSS
-- **Databases**: PostgreSQL, MySQL
-- **Tools**: Git, Composer, NPM
+- 👯 I’m looking to collaborate on [Qimchi](https://github.com/rhenaald/Qimchi)
 
-## 🚀 Projects I'm Working On
+- 👨‍💻 All of my projects are available at [https://portfolio-link.com](https://portfolio-link.com)
 
-- **[Zakat App](https://github.com/rhenaald/Zakat-app)**: A Laravel-based web app for managing zakat payments and distribution.
-- **[Qimchi](https://github.com/rhenaald/Qimchi)**: Digital watermarking app using Quantization Index Modulation (QIM) for protecting digital images.
+- 📫 How to reach me **ikhwankurniawan222@gmail.com**
 
-## 📫 How to Reach Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ikhwan-kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikhwan-kurniawan" height="30" width="40" /></a>
+<a href="https://fb.com/ikhwan krnwn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ikhwan krnwn" height="30" width="40" /></a>
+<a href="https://instagram.com/ikhwan.re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikhwan.re" height="30" width="40" /></a>
+</p>
 
-- Email: rhenaald@example.com
-- LinkedIn: [Rhenaald LinkedIn](https://www.linkedin.com/in/rhenaald)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
