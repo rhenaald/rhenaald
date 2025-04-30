@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rhenaald!
 
-<!--
-**rhenaald/rhenaald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with experience in various technologies. Below are some of the projects I’m currently working on and the tools I use.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel, React, Tailwind CSS
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Git, Composer, NPM
+
+## 🚀 Projects I'm Working On
+
+- **[Zakat App](https://github.com/rhenaald/Zakat-app)**: A Laravel-based web app for managing zakat payments and distribution.
+- **[Qimchi](https://github.com/rhenaald/Qimchi)**: Digital watermarking app using Quantization Index Modulation (QIM) for protecting digital images.
+
+## 📫 How to Reach Me
+
+- Email: rhenaald@example.com
+- LinkedIn: [Rhenaald LinkedIn](https://www.linkedin.com/in/rhenaald)
